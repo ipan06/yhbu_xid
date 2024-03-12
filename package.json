@@ -1,0 +1,19 @@
+{
+  "name": "yhbu_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipan06/yhbu_xid"
+  },
+  "keywords": [],
+  "author": "ipan06",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
